@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(300, 300, 100);
+    background-image: url(../img/back.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-sixe: 14p;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #009900;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:focus {
+    color: blue;
+}
+
+a:hover {
+    color: deeppink;
+}
+
+
+#title {
+    letter-spacing: 10;
+    border-top:solid 1px;
+    border-bottom:solid 1px;
+}
+
+p{
+    line-height:180%;
+}
+
+.kome{
+    color: crimson;
+}
+
+#setsumei{
+    font-family: serif;
+}
